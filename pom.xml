@@ -44,7 +44,7 @@
         <dependency><!--数据库驱动：Mysql-->
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.25</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!-- Hive连接  Start-->
